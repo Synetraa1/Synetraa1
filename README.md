@@ -17,7 +17,7 @@ from websites like freecodecamp.
 
 # Contact me
 - hickman.nico@gmail.com
-- [<insert link to LinkedIn>](https://www.linkedin.com/in/nicholas-hickman-289673216/)
+- https://www.linkedin.com/in/nicholas-hickman-289673216/
 
 
 
