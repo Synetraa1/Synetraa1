@@ -1,5 +1,7 @@
 # Hello, I'm Nicholas! 
 I'm currently a software engineer student from Finland, eager to learn more and develop my skills.
+I started uploading my code to github in April 2024, because I had gathered enough confidence
+from websites like freecodecamp.
 
 # Current skills
 - HTML
