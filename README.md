@@ -1,5 +1,5 @@
 # Hello, I'm Nicholas! 
-I'm currently a software engineer student, eager to learn more and develop my skills.
+I'm currently a software engineer student from Finland, eager to learn more and develop my skills.
 
 # Current skills
 - HTML
