@@ -16,8 +16,8 @@ from websites like freecodecamp.
 - https://synetraa1.github.io/Portfolio/
 
 # Contact me
-- <insert e-mail>
-- <insert link to LinkedIn>
+- hickman.nico@gmail.com
+- [<insert link to LinkedIn>](https://www.linkedin.com/in/nicholas-hickman-289673216/)
 
 
 
