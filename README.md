@@ -12,10 +12,14 @@ from websites like freecodecamp.
 # Currently learning
 - Developing further skills in javascript and C#
 
+#Portfolio
+- https://synetraa1.github.io/Portfolio/
+
 # Contact me
 - <insert e-mail>
-- <insert link to portfolio>
 - <insert link to LinkedIn>
+
+
 
 
 <!---
