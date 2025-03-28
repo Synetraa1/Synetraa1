@@ -1,4 +1,5 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Synetraa1)
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=8b39f7)][1]
+
 
 # Hello, I'm Nicholas! 
 I'm currently a software developer student from Finland, eager to learn more and develop my skills.
