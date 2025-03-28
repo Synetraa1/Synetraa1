@@ -28,8 +28,10 @@ I am currently focusing on learning frontend and design applications like Figma 
 - hickman.nico@gmail.com
 - https://www.linkedin.com/in/nicholas-hickman-289673216/
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Synetraa1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Synetraa1&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Synetraa1&show_icons=true&theme=dark#gh-dark-mode-only)]
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Synetraa1&show_icons=true&theme=default#gh-light-mode-only)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synetraa1&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)])
 
 
 <!---
