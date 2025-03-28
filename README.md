@@ -1,4 +1,4 @@
-[![GitHub Views](https://komarev.com/ghpvc/?username=Synetraa1&color=8b39f7)
+![GitHub Views](https://komarev.com/ghpvc/?username=Synetraa1&color=8b39f7)
 
 
 # Hello, I'm Nicholas! 
