@@ -30,7 +30,7 @@ I am currently focusing on learning frontend and design applications like Figma 
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Synetraa1&show_icons=true&theme=dark#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synetraa1&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synetraa1&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
 <!---
