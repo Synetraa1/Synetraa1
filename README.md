@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nicholas!
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=synetraa1&label=Profile%20views&color=FFC0CB&style=flat" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=synetraa1&label=Profile%20views&color=DE3163&style=flat" alt="profile views" /> 
 </p>
 ## 💼 About Me
 I'm a passionate software developer student from Finland, on a journey to expand my programming knowledge and design skills. My coding journey on GitHub began in April 2024 after building confidence through platforms like freeCodeCamp.
