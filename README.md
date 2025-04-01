@@ -43,4 +43,4 @@ I'm always open to collaboration and learning opportunities. Feel free to reach 
  
 🔗 LinkedIn: [Nicholas Hickman](https://www.linkedin.com/in/nicholas-hickman-289673216/)
 
-🌐 Portfolio: [synetraa1.github.io](https://www.synetraa1.github.io)
+🌐 Portfolio: [synetraa1.github.io](www.synetraa1.github.io)
