@@ -31,7 +31,7 @@ Currently, I'm focusing on front-end development and mastering design tools like
 ## 🚀 Projects
 Check out my portfolio website to see my latest work!
 Featured Projects
-- [BarelyWeatherly](https://www.barelyweathery.com) - A weather display app.
+- [BarelyWeathery](https://www.barelyweathery.com) - A weather display app.
 
 ## 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=synetraa1&show_icons=true&theme=tokyonight)
