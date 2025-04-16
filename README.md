@@ -9,6 +9,8 @@
 I'm a passionate software developer student from Finland, on a journey to expand my programming knowledge and design skills. My coding journey on GitHub began in April 2024 after building confidence through platforms like freeCodeCamp.
 Currently, I'm focusing on front-end development and mastering design tools like Figma and React to create seamless, responsive web experiences.
 
+Currently developing a brand and plan for a project. Hence the inactivity, as most of these are done on Figma and Jira. 
+
 ## 🛠️ Technical Skills
 |  Frontend  |  Design | Other |
 | ------------- | ------------- | ------------- |
