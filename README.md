@@ -36,8 +36,13 @@ Featured Projects
 - [BarelyWeathery](https://www.barelyweathery.com) - A weather display app.
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=synetraa1&show_icons=true&theme=tokyonight)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Synetraa1&layout=compact&show_icons=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Synetraa1&theme=chartreuse-dark&rank_icon=percentile" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Synetraa1&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ## 📫 Let's Connect!
 I'm always open to collaboration and learning opportunities. Feel free to reach out if you have any suggestions or if you'd like to work together!
 
