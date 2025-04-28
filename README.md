@@ -37,10 +37,10 @@ Featured Projects
 
 ## 📈 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Synetraa1&theme=chartreuse-dark&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Synetraa1&theme=chartreuse-dark&rank_icon=percentile&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Synetraa1&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Synetraa1&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 ## 📫 Let's Connect!
